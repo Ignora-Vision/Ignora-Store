@@ -1,60 +1,121 @@
-Privacy Policy for Ignora Store
-Last updated: April 20, 2026
+# 🔐 Privacy Policy for Ignora Store
 
-1. Information We Collect
-When you use Ignora Store, we may collect:
+**Last updated: April 20, 2026**
 
-Account Information: Email address, display name (when you register)
-Purchase Information: Order details, payment confirmation screenshots (CCP or BaridiMob receipts)
-Device Information: Device model and OS version (for app compatibility)
-Usage Data: Games browsed, purchased, and downloaded
-2. How We Use Your Information
-To create and manage your account
-To process and verify game purchases
-To send order confirmations and notifications
-To improve our app and services
-To provide customer support
-3. Third-Party Services
-Ignora Store uses the following third-party services:
+---
 
-Firebase Authentication: For secure user login
-Cloud Firestore: For storing app data (game catalog, orders, reviews)
-Supabase Storage: For storing images and game assets
+## 1. 📊 Information We Collect
+
+When you use **Ignora Store**, we may collect the following information:
+
+- **Account Information**  
+  Email address and display name (during registration)
+
+- **Purchase Information**  
+  Order details and payment confirmation screenshots (CCP or BaridiMob receipts)
+
+- **Device Information**  
+  Device model and operating system version (for compatibility)
+
+- **Usage Data**  
+  Games browsed, purchased, and downloaded
+
+---
+
+## 2. ⚙️ How We Use Your Information
+
+We use your data to:
+
+- Create and manage your account  
+- Process and verify purchases  
+- Send order confirmations and notifications  
+- Improve our services and user experience  
+- Provide customer support  
+
+---
+
+## 3. 🧩 Third-Party Services
+
+Ignora Store relies on trusted third-party services:
+
+- **Firebase Authentication** — secure user login  
+- **Cloud Firestore** — app data (games, orders, reviews)  
+- **Supabase Storage** — images and game assets  
+
 These services have their own privacy policies:
 
-Google Firebase Privacy Policy
-Supabase Privacy Policy
-4. Payment Information
-We process payments via CCP or BaridiMob (offline bank transfers). Payment confirmation screenshots are uploaded by users and stored securely. We do not collect or store credit card, debit card, or banking credentials.
+- Google Firebase Privacy Policy  
+- Supabase Privacy Policy  
 
-5. Data Storage
-Your data is stored on secure servers managed by Google Cloud (Firebase) and Supabase. We retain your account and purchase data for as long as your account is active.
+---
 
-6. Data Sharing
-We do not sell, trade, or share your personal information with third parties, except as required to provide our services (Firebase, Supabase) or as required by law.
+## 4. 💳 Payment Information
 
-7. Your Rights
-You may:
+Payments are processed via **CCP** or **BaridiMob** (offline bank transfers).
 
-Request access to your personal data
-Request deletion of your account and data
-Contact us with any privacy concerns
-8. Children's Privacy
-Ignora Store is not intended for children under 13. We do not knowingly collect data from children under 13.
+- Users upload payment confirmation screenshots  
+- Data is stored securely  
+- ❌ We do NOT collect:
+  - Credit card information  
+  - Debit card details  
+  - Banking credentials  
 
-9. Changes to This Policy
-We may update this privacy policy from time to time. Changes will be posted on this page with an updated date.
+---
 
-10. Contact Us
-If you have questions about this privacy policy, contact us at:
+## 5. 🗄️ Data Storage
 
-Email: xqzmy04@gmail.com
-Website: https://ignora-vision.piranha-newton.ts.net/
-GitHub: https://github.com/Ignora-Vision/
+Your data is stored on secure infrastructure provided by:
+
+- Google Cloud (Firebase)  
+- Supabase  
+
+We retain your data as long as your account remains active.
+
+---
+
+## 6. 🔒 Data Sharing
+
+We do **not** sell, trade, or rent your personal data.
+
+We only share data when:
+
+- Required to operate the service (Firebase, Supabase)  
+- Required by law  
+
+---
+
+## 7. 🧑‍⚖️ Your Rights
+
+You have the right to:
+
+- Request access to your data  
+- Request deletion of your account and data  
+- Contact us for privacy-related concerns  
+
+---
+
+## 8. 👶 Children's Privacy
+
+Ignora Store is **not intended for children under 13**.  
+We do not knowingly collect data from children.
+
+---
+
+## 9. 🔄 Changes to This Policy
+
+We may update this policy from time to time.  
+All changes will be reflected on this page with an updated date.
+
+---
+
+## 10. 📩 Contact Us
+
+If you have any questions about this Privacy Policy:
+
+- 📧 Email: xqzmy04@gmail.com  
+- 🌐 Website: https://ignora-vision.piranha-newton.ts.net/  
+- 💻 GitHub: https://github.com/Ignora-Vision/  
+
+---
+
 © 2026 Ignora Vision. All rights reserved.
-
-Changes made:
-
-Section 1: CCP or BaridiMob receipts instead of just CCP
-Section 4: via CCP or BaridiMob (offline bank transfers) instead of just CCP
-Section 10: Your email xqzmy04@gmail.com
