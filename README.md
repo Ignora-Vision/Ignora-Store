@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/الموقع_الرسمي-Website-14b8a6?style=for-the-badge&logo=firefox" alt="Website" />
 </a>
 <img src="https://img.shields.io/badge/الإصدار-v1.0.0-blue?style=for-the-badge" alt="Version" />
-<img src="https://img.shields.io/badge/Android-6.0%2B-green?style=for-the-badge&logo=android" alt="Android" />
+<img src="https://img.shields.io/badge/Android-8.0%2B-green?style=for-the-badge&logo=android" alt="Android" />
 <img src="https://img.shields.io/badge/المنصة-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter" />
 
 </div>
@@ -72,7 +72,7 @@ Keria is a modern digital real estate platform developed to deliver a new experi
 
 ## 📋 المتطلبات | Requirements
 
-- **نظام التشغيل**: Android 6.0 (Marshmallow) أو أحدث
+- **نظام التشغيل**: Android 8.0 (Oreo) أو أحدث
 - **الاتصال**: اتصال بالإنترنت مطلوب
 - **الأذونات**:
   - 📍 الموقع (للخرائط والأماكن القريبة)
